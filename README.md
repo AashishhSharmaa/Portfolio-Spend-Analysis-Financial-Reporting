@@ -84,12 +84,15 @@ This dashboard includes:
 The irregularity could be primarily due to large upfront expenses, such as vendor payments, equipment costs or software purchase, being forecasted for August 2025.  This creates a temporary cash flow gap in the forecast for the Q4.
 
 **Project G showed a notable irregularity:**
+
 ![5  Part 1](https://github.com/user-attachments/assets/21e6082f-b27d-4c9d-96bd-18279e515711)
 
 **August 2025: CF = $0.064M | PL = $1.981M**
+
 ![5  Q2 - Cash Flow](https://github.com/user-attachments/assets/877037ec-9838-4526-b14f-59d215119b68)
 
 **September 2025: CF jumps to $2.690M**
+
 ![6  Q2-Expense](https://github.com/user-attachments/assets/e52bdf0e-203d-4d68-a37a-52843129692b)
 
 ## **6. Conclusion**
