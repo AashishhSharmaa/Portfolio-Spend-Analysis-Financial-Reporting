@@ -13,8 +13,11 @@ To analyze and visualize the financial performance of a project portfolio by:
 1.	Creating a single pivot table showing actual and forecasted cash flow (CF) and expenses (PL) monthly.
 
 2.	Developing a presentation-level dashboard and slide deck with:
+
 o	A full-year forecast graph.
+
 o	Charts by business line and project type.
+
 o	Key insights derived from the data.
 
 3.	Answering two business-critical questions related to budget variance and forecast anomalies.
@@ -67,7 +70,7 @@ This dashboard includes:
 1.	A full-year line graph comparing CF vs PL
 2.	Different visuals to display Key insights from trends, spikes, and variances for Business Lines and Project Type.
 
-![3  Dashboard](https://github.com/user-attachments/assets/2fa2e82d-9cb3-426d-b37e-7b0c070939cb)
+![image](https://github.com/user-attachments/assets/99d3ba50-fc3d-43e6-8771-9f2c10fc4890)
 
 ### **Section 3: Additional Business Questions**
 
