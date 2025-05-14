@@ -14,11 +14,11 @@ To analyze and visualize the financial performance of a project portfolio by:
 
 2.	Developing a presentation-level dashboard and slide deck with:
 
-o	A full-year forecast graph.
+    o	A full-year forecast graph.
 
-o	Charts by business line and project type.
+    o	Charts by business line and project type.
 
-o	Key insights derived from the data.
+    o	Key insights derived from the data.
 
 3.	Answering two business-critical questions related to budget variance and forecast anomalies.
 
