@@ -25,7 +25,9 @@ To analyze and visualize the financial performance of a project portfolio by:
 ## **3. Dataset Provided**
 
 A raw dataset containing full-year financial forecasts and actuals across multiple projects. It includes:
+
 •	Cash Flow (CF): Total spend on a project, including resource costs, capital expenditure, and other expenses.
+
 •	Expense (PL): A subset of CF, reflecting the actual operating expenses only.
 
 ![0  Data Set](https://github.com/user-attachments/assets/e38b235e-4c8c-4ab9-9c5a-fda7a04864b4)
@@ -37,12 +39,17 @@ A raw dataset containing full-year financial forecasts and actuals across multip
 Part 1.	A single pivot table displaying both CF and PL across months and FY totals (in millions (MM)).
 
 Part 2.	A dashboard slide including:
+
 o	FY forecast graph (CF & PL)
+
 o	Charts for breakdown by business line and project type
-4.	Key insights from the analysis.
+
+o	Key insights from the analysis.
 
 Part 3.	Responses to:
+
 o	Which business line/team had the biggest variance?
+
 o	Any project with unusual forecasting?
 
 ## **🛠️ 5. Solution**
@@ -50,7 +57,9 @@ o	Any project with unusual forecasting?
 ### **Section 1: Pivot Table – Data Transformation and Modeling**
 
 •	Started with data cleaning and transformation of the raw dataset.
+
 •	Wrote DAX formulas and applied calculated columns to extract monthly breakdowns and yearly totals.
+
 •	Final dataset saved as: "Data (Transformed)", fully ready for visualization and pivoting.
 
 ![0 1 Data  Transformed](https://github.com/user-attachments/assets/43864ff6-426d-4433-a35f-1d097bdc392a)
@@ -58,7 +67,9 @@ o	Any project with unusual forecasting?
 ### **Pivot Table: Monthly Forecast and Actual Spend by Project (CF & PL)**
 
 This pivot table showcases the monthly forecast and actual spend by project, where:
+
 •	November 2024 – April 2025 represents actuals
+
 •	May 2025 – October 2025 represents forecasts
 
 ![1  Pivot Table p1](https://github.com/user-attachments/assets/4d69f0dd-ad3a-413e-af7b-e40e4bb53094)
