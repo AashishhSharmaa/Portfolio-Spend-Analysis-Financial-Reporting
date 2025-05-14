@@ -36,9 +36,9 @@ A raw dataset containing full-year financial forecasts and actuals across multip
 
 ## **4. Requirements**
 
-Part 1.	A single pivot table displaying both CF and PL across months and FY totals (in millions (MM)).
+**Part 1.**	A single pivot table displaying both CF and PL across months and FY totals (in millions (MM)).
 
-Part 2.	A dashboard slide including:
+**Part 2.**	A dashboard slide including:
 
 o	FY forecast graph (CF & PL)
 
@@ -46,7 +46,7 @@ o	Charts for breakdown by business line and project type
 
 o	Key insights from the analysis.
 
-Part 3.	Responses to:
+**Part 3.**	Responses to:
 
 o	Which business line/team had the biggest variance?
 
