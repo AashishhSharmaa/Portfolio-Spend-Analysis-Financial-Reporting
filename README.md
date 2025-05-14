@@ -69,7 +69,7 @@ This dashboard includes:
 
 ![3  Dashboard](https://github.com/user-attachments/assets/2fa2e82d-9cb3-426d-b37e-7b0c070939cb)
 
-### **Section 3: Additional Business Questions
+### **Section 3: Additional Business Questions**
 
 **Q1. Which business line / team had the biggest variance between budget and spend?**
 
