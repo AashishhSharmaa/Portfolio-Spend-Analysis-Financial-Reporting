@@ -52,7 +52,7 @@ o	Any project with unusual forecasting?
 
 ![0 1 Data  Transformed](https://github.com/user-attachments/assets/43864ff6-426d-4433-a35f-1d097bdc392a)
 
-**Pivot Table: Monthly Forecast and Actual Spend by Project (CF & PL)**
+### **Pivot Table: Monthly Forecast and Actual Spend by Project (CF & PL)**
 
 This pivot table showcases the monthly forecast and actual spend by project, where:
 •	November 2024 – April 2025 represents actuals
@@ -61,3 +61,46 @@ This pivot table showcases the monthly forecast and actual spend by project, whe
 ![1  Pivot Table p1](https://github.com/user-attachments/assets/4d69f0dd-ad3a-413e-af7b-e40e4bb53094)
 ![2  Pivot Table p2](https://github.com/user-attachments/assets/d3e28d17-a359-49c2-a9ec-8e58e253bb5a)
 
+### **Section 2: Dashboard – FY2024–25 Portfolio Spend Analysis**
+
+This dashboard includes:
+1.	A full-year line graph comparing CF vs PL
+2.	Different visuals to display Key insights from trends, spikes, and variances for Business Lines and Project Type.
+
+![3  Dashboard](https://github.com/user-attachments/assets/2fa2e82d-9cb3-426d-b37e-7b0c070939cb)
+
+### **Section 3: Additional Business Questions
+
+**Q1. Which business line / team had the biggest variance between budget and spend?**
+
+**Answer:** Fraud team had the highest variance with an underspend of -$48.21M from the allocated $100.28M budget.
+
+![4  Q1 addiitonal Question](https://github.com/user-attachments/assets/3c1b884f-4f0b-4791-9b58-4d8a1ff8300c)
+
+**Q2. Any project with forecast irregularity?**
+
+**Answer:** Project G stood out to me due to a significant irregularity in the forecast. In August 2025, the forecasted cash flow was $0.064 million, while expenses were projected at $1.981 million. Then, in September, cash flow jumped to $2.690 million, creating a notable discrepancy in the projections.
+
+The irregularity could be primarily due to large upfront expenses, such as vendor payments, equipment costs or software purchase, being forecasted for August 2025.  This creates a temporary cash flow gap in the forecast for the Q4.
+
+**Project G showed a notable irregularity:**
+![5  Part 1](https://github.com/user-attachments/assets/21e6082f-b27d-4c9d-96bd-18279e515711)
+
+**August 2025: CF = $0.064M | PL = $1.981M**
+![5  Q2 - Cash Flow](https://github.com/user-attachments/assets/877037ec-9838-4526-b14f-59d215119b68)
+
+**September 2025: CF jumps to $2.690M**
+![6  Q2-Expense](https://github.com/user-attachments/assets/e52bdf0e-203d-4d68-a37a-52843129692b)
+
+## **6. Conclusion**
+
+The financial reporting dashboard successfully consolidates full-year forecasts, offering clear visibility into actuals vs forecasted spend. It helps identify spending inefficiencies, track project costs, and inform budgeting decisions.
+
+## **7. Key Skills Demonstrated**
+
+•	Data Cleaning & Transformation in Excel
+•	Pivot Table Design
+•	Dashboard Creation & Data Storytelling
+•	Financial Forecasting & Budget Analysis
+•	Business Insight Generation
+•	Communication of Findings via Slide Deck
