@@ -102,8 +102,13 @@ The financial reporting dashboard successfully consolidates full-year forecasts,
 ## **7. Key Skills Demonstrated**
 
 •	Data Cleaning & Transformation in Excel
+
 •	Pivot Table Design
+
 •	Dashboard Creation & Data Storytelling
+
 •	Financial Forecasting & Budget Analysis
+
 •	Business Insight Generation
+
 •	Communication of Findings via Slide Deck
